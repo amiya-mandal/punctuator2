@@ -49,7 +49,7 @@ _Overall_        | _75.7_    | _73.9_    | _74.8_
 
 # Requirements
 * Python 2.7
-* Numpy
+* cupy
 * Theano
 
 # Requirements for data:
